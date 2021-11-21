@@ -16,7 +16,7 @@ const Header = () => {
       <div className="border-b w-full inline-block border-black-400 py-8">
         <div className="md:float-left block">
           <Link href="/">
-            <span className="cursor-pointer font-bold text-4xl text-black">
+            <span className="transition duration-500 ease hover:bg-blue-100 inline-block rounded-full px-4 cursor-pointer font-bold text-4xl text-black">
               Yugen
             </span>
           </Link>
